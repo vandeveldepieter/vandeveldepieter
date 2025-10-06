@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pieter Van de Velde</h1>
-- 🔭 I’m currently working on **Forecasting**
+- 🔭 I’m currently working on **Forecast modeling in Python**
 
 - 🌱 I’m currently learning **Data analysis, PBI, Python, SQL**
 
-- 💬 Ask me about **Anything**
+- 💬 Special skill **quickly learing and understanding non-it related bussinesprocesses and transforming that in an IT solution/problem**
+
+- 💬 Skills warning **this list represents the languages/envirments I've come in contact with and will be picked up fast if needed**
 
 - 📫 How to reach me **pietervandvelde@gmail.com**
 
