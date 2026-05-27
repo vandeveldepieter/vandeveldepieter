@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pieter Van de Velde</h1>
-- 🔭 I’m currently working on **Forecast modeling in Python**
+- 🔭 I’m currently working on **Forecasting and demand planning using Marimo notebooks**
 
-- 🌱 I’m currently learning **Data analysis, PBI, Python, SQL**
+- 🌱 I’m currently imporiving my skills in **Python, SQL, Data visualisation and data storytelling**
 
 - 💬 Special skill **quickly learing and understanding non-it related bussinesprocesses and transforming that in an IT solution/problem**
 
